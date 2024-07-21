@@ -305,6 +305,7 @@ a:focus {
   color: #444;
   text-align: left;
   font-size: 15px;
+  text-align: justify;
 }
 
 .slider_section .detail-box a {
@@ -415,6 +416,7 @@ a:focus {
 
 .about_section .detail-box p {
   margin-top: 10px;
+  text-align: justify;
 }
 
 .about_section .detail-box a {
